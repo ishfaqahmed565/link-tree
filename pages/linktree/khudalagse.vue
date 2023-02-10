@@ -3,7 +3,7 @@
 		mainBg: "fahrin_faiza-bg",
 		profileImg: "fahrin_faiza",
 		linkStyle:
-			"bg-purple-200/[.7] shadow-[0_2px_20px_1px_rgba(234,12,127,0.439)] hover:shadow-[0_2px_20px_6px_rgba(234,12,127,0.365)] hover:scale-[1.03]",
+			"bg-purple-200/[.7] shadow-[0_2px_20px_0px_rgba(234,12,127,0.320)] hover:shadow-[0_2px_20px_2px_rgba(234,12,127,0.365)] hover:scale-[1.03]",
 		socials: [
 			{
 				name: "Next Door Faiza",
@@ -26,7 +26,7 @@
 				svg: "instagram",
 			},
 			{
-				name: "Facebook(Khuda Lagse)",
+				name: "Facebook",
 				link: "https://www.facebook.com/khudalagse2",
 				svg: "facebook",
 			},
