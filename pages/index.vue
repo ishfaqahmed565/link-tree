@@ -70,11 +70,11 @@
 		background-image: url("/images/rafsan_bg.jpg");
 	}**/
 	.shadow-1 {
-		box-shadow: #ea0c7f70 0px 2px 20px 1px;
+		box-shadow: rgba(234, 12, 127, 0.439) 0px 2px 20px 1px;
 		transform: scale(1);
 	}
 	.shadow-1:hover {
-		box-shadow: #ea0c7f5d 0px 2px 20px 6px;
+		box-shadow: rgba(234, 12, 127, 0.365) 0px 2px 20px 6px;
 		transform: scale(1.03);
 	}
 </style>
