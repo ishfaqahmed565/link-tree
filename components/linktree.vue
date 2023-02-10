@@ -13,7 +13,7 @@
 			/>
 		</div>
 		<div
-			class="py-4 max-w-5xl px-5 flex flex-col justify-center items-center gap-5 mx-auto relative z-[50]"
+			class="py-4 max-w-3xl px-5 flex flex-col justify-center items-center gap-5 mx-auto relative z-[50]"
 		>
 			<div class="grid gap-4 place-items-center mb-2">
 				<img
@@ -44,7 +44,7 @@
 				>
 					<Svgs :name="social.svg" />
 					<p
-						class="pt-1 w-full text-center uppercase text-center font-semibold text-white text-lg text-[#710439]"
+						class="pt-1 w-full text-center text-center font-semibold text-white text-lg text-[#710439]"
 					>
 						{{ social.name }}
 					</p>
