@@ -2,6 +2,7 @@
 	let account = {
 		mainBg: "fahrin_faiza-bg",
 		profileImg: "fahrin_faiza",
+		textColor: "text-[#710439]",
 		linkStyle:
 			"bg-purple-200/[.7] shadow-[0_2px_20px_0px_rgba(234,12,127,0.320)] hover:shadow-[0_2px_20px_2px_rgba(234,12,127,0.365)] hover:scale-[1.03]",
 		socials: [

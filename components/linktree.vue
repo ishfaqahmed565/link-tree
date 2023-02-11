@@ -21,10 +21,12 @@
 					alt=""
 					class="w-[6rem] rounded-full"
 				/>
-				<h1 class="text-white text-xl font-bold text-[#710439]">
+				<h1 :class="`text-white text-xl font-bold ${props.account.textColor}`">
 					<slot name="title"></slot>
 				</h1>
-				<p class="text-white text-lg font-semibold text-[#710439]">
+				<p
+					:class="`text-white text-lg font-semibold ${props.account.textColor}`"
+				>
 					<slot name="second-title"></slot>
 				</p>
 			</div>
@@ -44,7 +46,7 @@
 				>
 					<Svgs :name="social.svg" />
 					<p
-						class="pt-1 w-full text-center text-center font-semibold text-white text-lg text-[#710439]"
+						:class="`pt-1 w-full text-center text-center font-semibold text-white text-lg ${props.account.textColor} `"
 					>
 						{{ social.name }}
 					</p>
