@@ -4,7 +4,7 @@
 	});
 </script>
 <template>
-	<div class="main">
+	<div class="main bg-black">
 		<div class="absolute w-full h-full">
 			<img
 				:src="`/images/background/${props.account.mainBg}.jpg`"
