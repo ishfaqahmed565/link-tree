@@ -4,7 +4,7 @@
 		profileImg: "salman_sadi",
 		textColor: "text-[#710439]",
 		linkStyle:
-			"bg-cyan-100/[.5] shadow-[0_2px_20px_0px_rgba(234,12,127,0.320)] hover:shadow-[0_2px_20px_2px_rgba(234,12,127,0.365)] hover:scale-[1.03]",
+			"bg-gradient-to-t from-[#D2D5DF]/[.70] to-[#FFF8D9] shadow-[0_2px_20px_0px_rgba(234,12,127,0.320)] hover:shadow-[0_2px_20px_2px_rgba(234,12,127,0.365)] hover:scale-[1.03]",
 		socials: [
 			{
 				name: "Course",
